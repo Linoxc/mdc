@@ -1,0 +1,427 @@
+[26Jul2024 00:02:47.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Acquire Hardware]
+[26Jul2024 00:02:55.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Isn't It Iron Pick]
+[26Jul2024 00:04:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Suit Up]
+[26Jul2024 00:05:46.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2024 00:06:30.907] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-47}
+[26Jul2024 00:06:30.909] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-44}
+[26Jul2024 00:07:13.548] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-650, y=13, z=-49}
+[26Jul2024 00:07:13.551] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-651, y=12, z=-49}
+[26Jul2024 00:07:13.554] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=11, z=-49}
+[26Jul2024 00:07:13.556] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-44}
+[26Jul2024 00:07:13.559] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-47}
+[26Jul2024 00:07:13.560] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=12, z=-47}
+[26Jul2024 00:07:13.564] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-46}
+[26Jul2024 00:07:13.566] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-45}
+[26Jul2024 00:07:13.569] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-43}
+[26Jul2024 00:07:13.571] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-48}
+[26Jul2024 00:07:13.861] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-644, y=11, z=-37}
+[26Jul2024 00:07:13.864] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-647, y=12, z=-37}
+[26Jul2024 00:08:26.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.38570678410542314
+[26Jul2024 00:08:26.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.7852337451379299
+[26Jul2024 00:08:26.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.0
+[26Jul2024 00:08:26.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.0
+[26Jul2024 00:29:37.061] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-52, z=45}
+[26Jul2024 00:29:37.064] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=31, y=-51, z=44}
+[26Jul2024 00:29:37.069] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=32, y=-51, z=45}
+[26Jul2024 00:31:37.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.352160446912535
+[26Jul2024 00:31:37.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.6273389800362565
+[26Jul2024 00:31:37.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.8032105794906101
+[26Jul2024 00:31:37.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.9476244948252883
+[26Jul2024 00:31:37.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.1765300778772905
+[26Jul2024 00:31:38.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.4716428009386795
+[26Jul2024 00:33:09.041] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-74, y=116, z=-180}
+[26Jul2024 00:33:09.107] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=115, z=-193}
+[26Jul2024 00:33:09.107] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-72, y=115, z=-193}
+[26Jul2024 00:33:09.107] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=115, z=-192}
+[26Jul2024 00:33:09.107] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-72, y=115, z=-192}
+[26Jul2024 00:33:09.108] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-74, y=115, z=-182}
+[26Jul2024 00:33:09.108] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=116, z=-182}
+[26Jul2024 00:33:09.108] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=115, z=-182}
+[26Jul2024 00:33:25.295] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=106, z=-190}
+[26Jul2024 00:33:25.295] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-82, y=106, z=-182}
+[26Jul2024 00:33:25.296] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=115, z=-186}
+[26Jul2024 00:33:25.296] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=116, z=-187}
+[26Jul2024 00:33:25.296] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=114, z=-185}
+[26Jul2024 00:33:25.296] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-82, y=115, z=-189}
+[26Jul2024 00:33:25.296] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=114, z=-189}
+[26Jul2024 00:33:25.297] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-82, y=115, z=-183}
+[26Jul2024 00:33:25.297] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=114, z=-183}
+[26Jul2024 00:33:25.297] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=113, z=-183}
+[26Jul2024 00:33:25.297] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=113, z=-189}
+[26Jul2024 00:33:25.297] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=114, z=-186}
+[26Jul2024 00:33:25.298] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=114, z=-181}
+[26Jul2024 00:33:25.298] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=113, z=-181}
+[26Jul2024 00:33:25.298] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=115, z=-181}
+[26Jul2024 00:33:25.298] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=106, z=-190}
+[26Jul2024 00:33:25.298] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=106, z=-190}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=106, z=-182}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=115, z=-187}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-75, y=115, z=-187}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=115, z=-181}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=114, z=-181}
+[26Jul2024 00:33:25.299] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-79, y=113, z=-181}
+[26Jul2024 00:33:25.315] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=106, z=-179}
+[26Jul2024 00:33:25.315] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=106, z=-180}
+[26Jul2024 00:33:25.316] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-89, y=113, z=-180}
+[26Jul2024 00:33:25.316] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-82, y=113, z=-179}
+[26Jul2024 00:33:25.316] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-86, y=109, z=-177}
+[26Jul2024 00:33:25.317] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=106, z=-173}
+[26Jul2024 00:33:25.317] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-84, y=106, z=-173}
+[26Jul2024 00:33:25.318] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=113, z=-173}
+[26Jul2024 00:33:25.318] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-82, y=113, z=-173}
+[26Jul2024 00:33:25.318] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-80, y=113, z=-179}
+[26Jul2024 00:33:26.577] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=105, z=-187}
+[26Jul2024 00:33:26.577] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-98, y=105, z=-189}
+[26Jul2024 00:33:26.577] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=105, z=-189}
+[26Jul2024 00:33:26.578] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-98, y=105, z=-187}
+[26Jul2024 00:33:27.752] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-93, y=106, z=-178}
+[26Jul2024 00:33:27.752] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-96, y=107, z=-177}
+[26Jul2024 00:36:38.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[26Jul2024 00:38:23.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.3192467665926415
+[26Jul2024 00:45:24.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 has made the advancement [A Seedy Place]
+[26Jul2024 00:46:22.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Diamonds!]
+[26Jul2024 00:46:56.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[26Jul2024 00:48:47.304] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-55, z=49}
+[26Jul2024 00:48:47.306] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-56, z=49}
+[26Jul2024 00:48:47.307] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-55, z=49}
+[26Jul2024 00:48:47.307] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-56, z=49}
+[26Jul2024 00:48:47.526] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-55, z=34}
+[26Jul2024 00:48:47.526] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-56, z=34}
+[26Jul2024 00:48:47.527] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-44, z=39}
+[26Jul2024 00:48:47.528] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-44, z=39}
+[26Jul2024 00:48:47.528] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-44, z=39}
+[26Jul2024 00:48:47.529] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-29, z=33}
+[26Jul2024 00:48:47.541] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-30, z=33}
+[26Jul2024 00:48:47.541] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-30, z=33}
+[26Jul2024 00:48:47.542] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-30, z=46}
+[26Jul2024 00:48:47.542] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-30, z=46}
+[26Jul2024 00:48:47.545] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-56, z=36}
+[26Jul2024 00:48:47.547] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-55, z=34}
+[26Jul2024 00:48:47.549] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-56, z=34}
+[26Jul2024 00:48:47.550] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-54, z=36}
+[26Jul2024 00:48:47.551] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-55, z=35}
+[26Jul2024 00:48:47.554] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=38}
+[26Jul2024 00:48:47.556] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=39}
+[26Jul2024 00:48:47.557] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=40}
+[26Jul2024 00:48:47.571] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=41}
+[26Jul2024 00:50:56.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 has made the advancement [The Parrots and the Bats]
+[26Jul2024 00:51:18.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 fell from a high place
+[26Jul2024 00:51:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> agg
+[26Jul2024 00:52:59.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was shot by Pillager
+[26Jul2024 00:57:18.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[26Jul2024 01:01:19.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Take Aim]
+[26Jul2024 01:07:36.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[26Jul2024 01:08:27.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Not Today, Thank You]
+[26Jul2024 01:08:40.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.2705484073145499
+[26Jul2024 01:08:40.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.6470411051915335
+[26Jul2024 01:08:40.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.0345728800205052
+[26Jul2024 01:08:40.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.428011444830986
+[26Jul2024 01:08:40.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.8246106151918866
+[26Jul2024 01:10:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> oe rodrigo
+[26Jul2024 01:10:25.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> no
+[26Jul2024 01:10:25.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> xaero-waypoint:g:G:-847:134:-5452:5:false:0:Internal-overworld-waypoints
+[26Jul2024 01:10:29.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> vienes?
+[26Jul2024 01:10:50.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> .-.
+[26Jul2024 01:10:55.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> avr pera
+[26Jul2024 01:11:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> TA cerca
+[26Jul2024 01:11:16.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> si
+[26Jul2024 01:11:22.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> pero se hace d noche
+[26Jul2024 01:14:12.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.3085694269821033
+[26Jul2024 01:14:12.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 0.7117441211275946
+[26Jul2024 01:14:12.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.1065226455730226
+[26Jul2024 01:14:13.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.4778123872838478
+[26Jul2024 01:14:13.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orange (vehicle of Fabri) moved wrongly! 1.8168572005115493
+[26Jul2024 01:14:22.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was slain by Zombie
+[26Jul2024 01:14:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> vergüenza
+[26Jul2024 01:14:31.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> aggg
+[26Jul2024 01:15:24.410] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-55, z=34}
+[26Jul2024 01:15:24.412] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-56, z=34}
+[26Jul2024 01:15:24.412] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-44, z=39}
+[26Jul2024 01:15:24.412] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-44, z=39}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-44, z=39}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=29, y=-29, z=33}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=30, y=-30, z=33}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=28, y=-30, z=33}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-30, z=46}
+[26Jul2024 01:15:24.413] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-30, z=46}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-56, z=36}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-55, z=34}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-56, z=34}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-54, z=36}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=37, y=-55, z=35}
+[26Jul2024 01:15:24.414] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=38}
+[26Jul2024 01:15:24.415] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=39}
+[26Jul2024 01:15:24.415] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=40}
+[26Jul2024 01:15:24.415] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=-29, z=41}
+[26Jul2024 01:15:26.746] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-55, z=49}
+[26Jul2024 01:15:26.747] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=24, y=-56, z=49}
+[26Jul2024 01:15:26.747] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=33, y=-55, z=49}
+[26Jul2024 01:15:26.747] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-56, z=49}
+[26Jul2024 01:17:54.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[26Jul2024 01:19:18.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Jennifer Dumped Me]
+[26Jul2024 01:19:30.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> ?????
+[26Jul2024 01:19:34.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> eso
+[26Jul2024 01:19:36.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> aggg
+[26Jul2024 01:19:40.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> cómo se consigue
+[26Jul2024 01:19:47.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> verguenza q no lo tengan
+[26Jul2024 01:19:59.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> y llevan más q yo ps
+[26Jul2024 01:20:07.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> que es?
+[26Jul2024 01:20:08.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> yo solo exploto :v
+[26Jul2024 01:20:12.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xdd
+[26Jul2024 01:20:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> exploro
+[26Jul2024 01:20:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> yo mino
+[26Jul2024 01:20:30.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> aya
+[26Jul2024 01:20:35.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> y richard muere
+[26Jul2024 01:20:38.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xddd
+[26Jul2024 01:20:43.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ierto
+[26Jul2024 01:20:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> oe fabri sigues en las mismas coordenadas??
+[26Jul2024 01:21:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> nd pera
+[26Jul2024 01:21:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> agg
+[26Jul2024 01:21:13.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> se ve q exploras
+[26Jul2024 01:21:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> xaero-waypoint:g:G:115:63:-6217:14:false:0:Internal-overworld-waypoints
+[26Jul2024 01:21:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> a tas cerquita
+[26Jul2024 01:21:41.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> avr si encuentro la mansión
+[26Jul2024 01:21:51.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> siono
+[26Jul2024 01:21:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> q son 6500m
+[26Jul2024 01:22:00.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> nada
+[26Jul2024 01:22:04.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> lo bueno w tengo tp pa regresar
+[26Jul2024 01:22:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> habla vienes
+[26Jul2024 01:22:29.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> a no pera el tp es individual
+[26Jul2024 01:22:35.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> no lo vas a poder usar
+[26Jul2024 01:22:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> pero puse una marca para hacer tp y nd al final me tpeo tuve q ir caminando
+[26Jul2024 01:23:09.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> esq los comandos no sirven
+[26Jul2024 01:23:18.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> solo Esteban los puede ysar
+[26Jul2024 01:23:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> si ps server d mrd
+[26Jul2024 01:23:29.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xd
+[26Jul2024 01:23:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> pero hay un pilar pa hacer tp
+[26Jul2024 01:23:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> tmr me la bajan las plantas carnivoras esas
+[26Jul2024 01:24:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ve sigue en la srlva
+[26Jul2024 01:24:09.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> selva*
+[26Jul2024 01:24:13.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> si ps
+[26Jul2024 01:24:31.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> no puedo rushearlo pq sobrao me topo con esas wbds
+[26Jul2024 01:24:42.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> solo diré q esa selva es casi un continente
+[26Jul2024 01:25:02.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> apcvt
+[26Jul2024 01:25:24.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta21 lost connection: Timed out
+[26Jul2024 01:25:24.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 left the game
+[26Jul2024 01:25:27.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> agg
+[26Jul2024 01:25:33.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> lo cierra?
+[26Jul2024 01:25:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ya confirmo lo q acabas d decir
+[26Jul2024 01:25:39.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> no sé
+[26Jul2024 01:26:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> pero aunq t encuentre pa regresar como hago? no tengo tp
+[26Jul2024 01:26:15.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> por cierto vi 2 casas
+[26Jul2024 01:26:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> una de madera?
+[26Jul2024 01:26:33.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> si
+[26Jul2024 01:26:39.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> aunq también aparecen a la azar
+[26Jul2024 01:26:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> bueno las 2 tenian madera
+[26Jul2024 01:26:50.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta21[/127.128.25.243:35269] logged in with entity id 196541 at (-53.854640212082614, 77.0, 84.71676466688645)
+[26Jul2024 01:26:50.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 joined the game
+[26Jul2024 01:26:54.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ya loodeena hábito yo y Richard
+[26Jul2024 01:26:59.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> moderna*
+[26Jul2024 01:27:16.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> la q tenia una granja no??
+[26Jul2024 01:27:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> aja
+[26Jul2024 01:27:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> me maté unas cuantas ovejas pa mi cama
+[26Jul2024 01:27:36.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> mentira
+[26Jul2024 01:27:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> si tienes 2 pilares puedes regresar
+[26Jul2024 01:27:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> q seran esos pilares
+[26Jul2024 01:28:00.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> un pilar en tu jato y otro lo llevas de exploración pa regresar después
+[26Jul2024 01:28:06.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> vi un portal al nether tmb
+[26Jul2024 01:28:14.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[26Jul2024 01:28:17.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ese es oublico
+[26Jul2024 01:28:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> publico
+[26Jul2024 01:28:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> la mesa no xq ese Esteban no quiere compartir
+[26Jul2024 01:28:42.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xd
+[26Jul2024 01:28:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> mesa de encantamientos
+[26Jul2024 01:28:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> q egoísta ps
+[26Jul2024 01:29:00.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> si ps no va a ser una mesa d crafteo
+[26Jul2024 01:29:03.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> .-.
+[26Jul2024 01:29:33.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> vrd
+[26Jul2024 01:29:40.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ya se encontraron con el wbn del sol?
+[26Jul2024 01:29:46.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> yo si
+[26Jul2024 01:29:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> agg
+[26Jul2024 01:29:50.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> aja
+[26Jul2024 01:29:56.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> el otro no creo
+[26Jul2024 01:30:03.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> osea Richard?
+[26Jul2024 01:30:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> Esteban también?
+[26Jul2024 01:30:15.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> pero si tú paras bajo tierra
+[26Jul2024 01:30:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xd no se
+[26Jul2024 01:30:20.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> jajsajsajasa
+[26Jul2024 01:30:51.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> tmr pensé q había salido
+[26Jul2024 01:31:28.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> a vrd creo q la mochila de vision si se craftea
+[26Jul2024 01:31:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> pero en otra mesa
+[26Jul2024 01:31:39.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> eso d las mochilas aun no se q son
+[26Jul2024 01:32:00.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> se pusieron mochila pa la mina
+[26Jul2024 01:32:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> osea más espacio
+[26Jul2024 01:32:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> tengo 3
+[26Jul2024 01:32:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> 2
+[26Jul2024 01:32:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ya tengo la de vision
+[26Jul2024 01:32:45.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> como se llama
+[26Jul2024 01:33:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> murciélago
+[26Jul2024 01:33:27.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ??
+[26Jul2024 01:33:45.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> así se llama la mochila de vision nocturna
+[26Jul2024 01:34:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> desbloquee su crafteo cuando la conseguí creo
+[26Jul2024 01:37:57.830] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Orange'/80376, l='ServerLevel[world]', x=-352.84, y=63.00, z=-6775.82] died: Orange was blown up by Creeper
+[26Jul2024 01:38:07.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ptmr mi chocobo
+[26Jul2024 01:38:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xd
+[26Jul2024 01:38:36.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> q fue?
+[26Jul2024 01:38:37.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[26Jul2024 01:39:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> creeper
+[26Jul2024 01:40:09.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta21 moved too quickly! 0.0,-11.374650770518585,0.0
+[26Jul2024 01:40:28.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> tmr el asiento no esta
+[26Jul2024 01:40:29.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> me encontre una casa
+[26Jul2024 01:40:48.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> aparecen estructuras por el mapa
+[26Jul2024 01:40:53.854] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-47}
+[26Jul2024 01:40:53.854] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-44}
+[26Jul2024 01:41:07.101] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-650, y=13, z=-49}
+[26Jul2024 01:41:07.102] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-651, y=12, z=-49}
+[26Jul2024 01:41:07.102] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=11, z=-49}
+[26Jul2024 01:41:07.102] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-44}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-47}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=12, z=-47}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-46}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-45}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-43}
+[26Jul2024 01:41:07.103] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-48}
+[26Jul2024 01:41:07.117] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-644, y=11, z=-37}
+[26Jul2024 01:41:07.122] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-647, y=12, z=-37}
+[26Jul2024 01:41:30.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ya fabri dond andas?
+[26Jul2024 01:41:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> flechado
+[26Jul2024 01:41:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> va
+[26Jul2024 01:42:07.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> me encontre tortugas sirven pa algo?
+[26Jul2024 01:42:10.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> xaero-waypoint:h:H:-541:72:-6742:14:false:0:Internal-overworld-waypoints
+[26Jul2024 01:42:18.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> solo un casco
+[26Jul2024 01:43:05.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> no estarás cerca di
+[26Jul2024 01:43:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> NO
+[26Jul2024 01:43:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> hay una selva por aqui
+[26Jul2024 01:44:07.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ANDO A UNOS 5500M
+[26Jul2024 01:44:22.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> poquito
+[26Jul2024 01:44:30.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> tendrás como regresar
+[26Jul2024 01:44:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> sion
+[26Jul2024 01:44:38.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> nd
+[26Jul2024 01:44:43.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xd
+[26Jul2024 01:45:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was slain by Zombie
+[26Jul2024 01:45:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ese seta muriendose por zombis ps
+[26Jul2024 01:45:51.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> Sali sin nada a talar el bosque
+[26Jul2024 01:46:10.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> y lo malo?
+[26Jul2024 01:46:23.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> esta lloviendo
+[26Jul2024 01:46:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> muchos mobs
+[26Jul2024 01:46:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> arboles generan oscuridad
+[26Jul2024 01:46:43.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[26Jul2024 01:46:43.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> muchas cosas malas
+[26Jul2024 01:47:00.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ni yo me muero
+[26Jul2024 01:47:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> tu que vas a morir te la pasas wbiando buscando cofres
+[26Jul2024 01:47:31.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ese fabrizio t acaba d decir d manera indirecta malo seta
+[26Jul2024 01:47:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> toy buscando la mansion
+[26Jul2024 01:47:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> y mi Chocobo murio
+[26Jul2024 01:48:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> no digo wbiando
+[26Jul2024 01:48:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> vergüenza
+[26Jul2024 01:48:25.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> la mansion puede estar a 200k de bloques
+[26Jul2024 01:48:32.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> más
+[26Jul2024 01:48:36.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> poquito
+[26Jul2024 01:48:58.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[26Jul2024 01:49:09.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> toy en su Bia avr si lo encuentro
+[26Jul2024 01:49:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> bioma
+[26Jul2024 01:53:32.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was shot by Skeleton
+[26Jul2024 01:53:37.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was shot by Skeleton
+[26Jul2024 01:58:56.048] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-650, y=13, z=-49}
+[26Jul2024 01:58:56.048] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-651, y=12, z=-49}
+[26Jul2024 01:58:56.048] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=11, z=-49}
+[26Jul2024 01:58:56.048] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-44}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-646, y=12, z=-47}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-652, y=12, z=-47}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-46}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-45}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-43}
+[26Jul2024 01:58:56.049] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-655, y=4, z=-48}
+[26Jul2024 01:58:56.059] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-47}
+[26Jul2024 01:58:56.059] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-640, y=12, z=-44}
+[26Jul2024 01:59:00.537] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-644, y=11, z=-37}
+[26Jul2024 01:59:00.538] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-647, y=12, z=-37}
+[26Jul2024 01:59:23.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Jul2024 02:03:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> tmr volvi a la selva
+[26Jul2024 02:07:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> BIOMA D NIEVE
+[26Jul2024 02:07:24.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> HAY ALGO RELEVANTE EN ESE BIOMA?
+[26Jul2024 02:07:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> BOSS de jielo
+[26Jul2024 02:07:35.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> AGG JIELO
+[26Jul2024 02:07:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> hielo
+[26Jul2024 02:09:50.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[26Jul2024 02:09:55.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> UNA ALDEA
+[26Jul2024 02:10:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> busca tp
+[26Jul2024 02:10:11.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
+[26Jul2024 02:10:11.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ??
+[26Jul2024 02:10:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> algunas aldeas tienn tp
+[26Jul2024 02:10:47.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> YA PERO COMO IDENTIFICO EL TP
+[26Jul2024 02:11:05.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> tienen una estructura casi como una fuente
+[26Jul2024 02:11:18.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> y en medio hay un pilar
+[26Jul2024 02:11:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> YA ENCONTRE LA FUENTE PERO NO HAY COMO UN PILAR
+[26Jul2024 02:12:25.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> dije una estructura casi como la fuente
+[26Jul2024 02:12:40.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> pero sin agua o hielo
+[26Jul2024 02:12:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> AAA
+[26Jul2024 02:15:55.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> CHOCOBOS
+[26Jul2024 02:15:58.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> O COMO SE DIGAN
+[26Jul2024 02:16:32.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruby (vehicle of Fabri) moved wrongly! 0.2803403364694077
+[26Jul2024 02:16:32.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ruby (vehicle of Fabri) moved wrongly! 0.6284711713271918
+[26Jul2024 02:19:28.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Disconnected
+[26Jul2024 02:19:28.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game
+[26Jul2024 02:20:21.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[26Jul2024 02:30:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> aggg te llevaste mis chuletas
+[26Jul2024 02:30:14.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> ????
+[26Jul2024 02:30:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> mentira
+[26Jul2024 02:30:20.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> yo?
+[26Jul2024 02:30:38.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> me la bajaste
+[26Jul2024 02:30:52.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> estoy alimentandome de manzanas
+[26Jul2024 02:31:36.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> conseguí pistones :v
+[26Jul2024 02:31:44.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> recien?
+[26Jul2024 02:32:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> recién vuelvo
+[26Jul2024 02:39:00.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> gil
+[26Jul2024 02:39:09.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> toma
+[26Jul2024 02:39:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> como funciona?
+[26Jul2024 02:39:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> lo pones y escribes un nombre
+[26Jul2024 02:39:57.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> podrás trapear a todos los pilares q hallas puesto nombre
+[26Jul2024 02:40:15.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> voy a poner uno en la exp pon ese afuera pa q pruebes
+[26Jul2024 02:40:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> se puede quitar no?
+[26Jul2024 02:40:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> aha
+[26Jul2024 02:41:08.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> pon ese arriba y ven baja
+[26Jul2024 02:42:07.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> lya?
+[26Jul2024 02:42:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> bacan
+[26Jul2024 02:42:26.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ao
+[26Jul2024 02:42:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> toma
+[26Jul2024 02:42:41.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> .-.
+[26Jul2024 02:42:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> farmea exp luego me lo das
+[26Jul2024 02:42:51.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> clic derecho}+
+[26Jul2024 02:42:59.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> ya
+[26Jul2024 02:43:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> deja de presiona agacharte
+[26Jul2024 02:43:14.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> ahora si clic
+[26Jul2024 02:43:20.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> esq quiero la carne pa tradear
+[26Jul2024 02:43:56.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> cuanta carne?
+[26Jul2024 02:44:09.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> no sé quiero desbloquear los ojos y baras
+[26Jul2024 02:44:21.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> ahi esta
+[26Jul2024 02:44:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> 2 stacks
+[26Jul2024 02:44:28.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> y 4
+[26Jul2024 02:46:40.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> tienes todas las mesas?
+[26Jul2024 02:46:52.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> todas?
+[26Jul2024 02:47:01.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fabri> quiero ver lo de la mochila
+[26Jul2024 02:47:39.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> nada
+[26Jul2024 02:47:44.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <seta21> solo la decrafteo
+[26Jul2024 02:55:48.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta21 lost connection: Timed out
+[26Jul2024 02:55:48.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 left the game
+[26Jul2024 02:55:48.463] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2024 02:59:32.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fabri lost connection: Disconnected
+[26Jul2024 02:59:32.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fabri left the game
+[26Jul2024 03:00:44.496] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: seta21[/127.128.25.243:38073] logged in with entity id 260037 at (-58.2757104053013, 79.0, 68.44554231200637)
+[26Jul2024 03:00:44.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 joined the game
+[26Jul2024 03:10:47.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-107, y=75, z=24} BlockPos{x=-108, y=73, z=24}
+[26Jul2024 04:41:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 is bleeding. seta21 was slain by Enderman
+[26Jul2024 04:48:06.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=81, z=65} BlockPos{x=-53, y=80, z=65}
+[26Jul2024 05:28:56.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: seta21 lost connection: Timed out
+[26Jul2024 05:28:56.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: seta21 left the game
+[26Jul2024 06:03:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Jul2024 06:03:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jul2024 06:03:56.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jul2024 06:03:56.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jul2024 06:03:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jul2024 06:03:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jul2024 06:03:58.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jul2024 06:03:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jul2024 06:03:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jul2024 06:03:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jul2024 06:03:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
